@@ -1,0 +1,56 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #141526;
+    margin: 0;
+
+}
+/* Resultat Vrai*/
+.block-p{
+    margin: 0 auto;
+    height: 300px;
+    width: 40%;
+    background-color: white;
+    border-radius: 25px;
+    padding: 15px;
+    margin-top: 70px;
+    text-align: center;
+}
+.p1{
+    font-size: 24px;
+    margin-bottom: 90px;
+}
+.p2{
+    font-size: 18px;
+}
+
+/* Resultat Faux */
+
+.block-f{
+    margin: 0 auto;
+    height: 300px;
+    width: 40%;
+    background-color: white;
+    border-radius: 25px;
+    padding: 15px;
+    margin-top: 70px;
+    text-align: center;
+}
+.p3{
+    font-size: 24px;
+    margin-bottom: 90px;
+}
+.p4{
+    font-size: 18px;
+}
+
+/* Page d'acceuil */
+
+.card{
+    margin: 20px;
+}
+.block-c{
+    margin-top: 80px;
+}
+
